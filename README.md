@@ -1,5 +1,9 @@
 ## EcoPower Logistics Power BI Report
 
+## What this repository contains
+
+This repository documents the EcoPower Logistics reporting project, including the intended metrics and report design. The default branch contains the written overview. A Power BI report file is not included on this branch.
+
 This project aims to create a comprehensive Power BI report for EcoPower Logistics, enabling stakeholders to efficiently monitor and analyze key logistics and sales data. The report, titled "EcoPower Logistics – Order Monitoring," encompasses various aspects of data visualization and manipulation to provide a holistic view of the organization's operations. Below is a guide detailing the necessary steps to develop the Power BI report effectively.
 
 ### Report Development
